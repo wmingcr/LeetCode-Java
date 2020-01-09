@@ -1,2 +1,2 @@
 # LeetCode
-learn coding
+Code Learning
