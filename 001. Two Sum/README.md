@@ -2,7 +2,7 @@
 
 打开一看，最简单的就是for循环嵌套，寻找 i 和 j 的和是 target。
 
-1. 变量，i j 还有临时数组尽量建立在for循环里面，这样的话会减少内纯占用
+1. 变量，i, j 还有临时数组尽量建立在for循环里面，这样的话会减少内纯占用
 2. 临时数组的建立方式，new int[] {i, j};
 3. 抛异常：throw new IlligalArgumentException("****");
 
