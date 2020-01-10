@@ -4,6 +4,7 @@
 
 1. 变量，i j 还有临时数组尽量建立在for循环里面，这样的话会减少内纯占用
 2. 临时数组的建立方式，new int[] {i, j};
+3. 抛异常：throw new IlligalArgumentException("****");
 
 
 # 优化
