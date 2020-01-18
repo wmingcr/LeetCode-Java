@@ -35,6 +35,9 @@ public static String countAndSay(int n) {
 
 //添加StringBuilder，同时套用recursion
 
+套用递归，每一层都会用到下一层所得到的结果。
+递归最重要的是，递归结束的条件。
+
 class Solution {
     public String countAndSay(int n) {
         if(n == 1){
