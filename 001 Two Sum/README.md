@@ -20,9 +20,9 @@ However, HashMap is a better way. TC could be O(N),
 
 2. HashMap map = new HashMap();
 
-  --> return type of method map.get(key) is Object, so we need Generic to narrow it down,
+--> return type of method map.get(key) is Object, so we need Generic to narrow it down,
 
-  --> HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+--> HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
   
 
 # PS
