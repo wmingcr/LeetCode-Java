@@ -1,4 +1,6 @@
 //using String, StringBuilder, Long
+//complicated, many things to aware,
+
 public static int reverse(int x) {
             long temp;
             if(x >= 0){
