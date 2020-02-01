@@ -18,5 +18,8 @@ Second way, if num > Int.MAX, then num/10 > Int.MAX/10 || (num/10 == Int.MAX/10 
 
 or, num/10 < Int.MIN/10 || (num/10 == Int.MIN/10 && x%10 < -8)
 
+
+
 Integer.MAX_VALUE = 2147483647
+
 Integer.MIN_VALUE = -2147483648
