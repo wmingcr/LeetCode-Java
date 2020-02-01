@@ -13,6 +13,18 @@ for nested for loop, time complexity is O(n^2), space complexity is O(1)
 
 However, HashMap is a better way. TC could be O(N),
 
+
+# Errors made,
+
+1. HashMap, not Hashmap,
+
+2. HashMap map = new HashMap();
+
+  --> return type of method map.get(key) is Object, so we need Generic to narrow it down,
+
+  --> HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+  
+
 # PS
 
 Good Good Study, Day Day Up
