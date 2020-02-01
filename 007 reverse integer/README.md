@@ -15,6 +15,7 @@ Q: if x = Integer.MIN_VALUE, Long m = x * -1; why this way failed?
 This way works: long m = Long.valueOf(x) * -1;
 
 Second way, if num > Int.MAX, then num/10 > Int.MAX/10 || (num/10 == Int.MAX/10 && x%10>8)
+
 or, num/10 < Int.MIN/10 || (num/10 == Int.MIN/10 && x%10 < -8)
 
 Integer.MAX_VALUE = 2147483647
