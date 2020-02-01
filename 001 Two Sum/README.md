@@ -1,17 +1,20 @@
 # ReadMe File
 
-Most easy way is nesting for loop, easy to understand,
+
+==>> tips
 
 1. variables, like i & j, put it inside of for loop; at the end, memory will be released
-2. an effective way to return an array, return new int [] {a, b, c...};
+2. an effective way to return an array, return new int [ ] {a, b, c...};
 3. before any algorithm, it's better to check whether parameters passed are legal or not,
 
 
 # Optimization
 
-for nested for loop, time complexity is O(n^2), space complexity is O(1)
+Most easiest way is nesting for loop, easy to understand,
 
-However, HashMap is a better way. TC could be O(N),
+For nested for loop, time complexity is O(n^2), space complexity is O(1)
+
+However, HashMap is a better way. TC could be O(N), SC is O(N)
 
 
 # Errors made,
