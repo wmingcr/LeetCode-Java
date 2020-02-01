@@ -1,16 +1,18 @@
 # ReadMe File
 
-打开一看，最简单的就是for循环嵌套，寻找 i 和 j 的和是 target。
+Most easy way is nesting for loop, easy to understand,
 
-1. 变量，i, j 还有临时数组尽量建立在for循环里面，这样的话会减少内纯占用
-2. 临时数组的建立方式，new int[] {i, j};
-3. 抛异常：throw new IlligalArgumentException("****");
+1. variables, like i & j, put it inside of for loop; at the end, memory will be released
+2. an effective way to return an array, return new int [] {a, b, c...};
+3. before any algorithm, it's better to check whether parameters passed are legal or not,
 
 
-# 优化
+# Optimization
 
-当然是使用map，但是没有掌握好map，所以还需要继续学习。
+for nested for loop, time complexity is O(n^2), space complexity is O(1)
+
+However, HashMap is a better way. TC could be O(N),
 
 # PS
 
-好好学习啦 要天天向上
+Good Good Study, Day Day Up
