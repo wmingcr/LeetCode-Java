@@ -16,7 +16,10 @@ SC: O(log10(x))
 How to decide whether reversed a integer is overflow?
 
 Q: if x = Integer.MIN_VALUE, Long m = x * -1; why this way failed?
+
 This way works: long m = Long.valueOf(x) * -1;
+
+Similar: if ans * 10 overflow, its value is itself, eg int m = ans * 10, m is still ans.
 
 
 # Optimization
