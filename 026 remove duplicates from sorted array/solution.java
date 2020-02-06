@@ -16,7 +16,10 @@ class Solution {
             if(nums[i] == nums[j]){
                 continue;
             }
-            nums[i+1] = nums[j];
+            /*nums[i+1] = nums[j];*/
+            if(i+1 != j){
+                nums[i+1] = nums[j];
+            }
             i++;
             len++;
         }
