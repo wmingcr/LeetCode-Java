@@ -17,3 +17,7 @@ one for loop, so T: O(n), no new space, S: O(1),
 If an array doesn't have any duplicates, we might copy arr[j] into arr[i+1] n-1 times, which is unnecessary. 
 
 So, every time before passing value, we could have a check, if j == i + 1, ignore the passing value step;
+
+# Reference
+
+Thanks to: https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/shuang-zhi-zhen-shan-chu-zhong-fu-xiang-dai-you-hu/
