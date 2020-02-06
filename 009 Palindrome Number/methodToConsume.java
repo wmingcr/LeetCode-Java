@@ -6,10 +6,6 @@
 进行比较
 再将 22 取出来继续比较
 
-作者：MisterBooo
-链接：https://leetcode-cn.com/problems/palindrome-number/solution/dong-hua-hui-wen-shu-de-san-chong-jie-fa-fa-jie-ch/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 */
 
 class Solution {
