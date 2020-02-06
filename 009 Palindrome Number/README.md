@@ -20,3 +20,7 @@ remainder = x%10;
 newNum = newNum * 10 + remainder;
 
 This is THE easiest way. 
+
+# another thing to consider: reverted num is overflow.
+
+we only revert half lenth of the num.
