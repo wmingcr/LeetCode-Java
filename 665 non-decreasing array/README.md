@@ -10,3 +10,6 @@ After step2, we can change value for one of them; then there is no need to resta
 
 So, T is just O(n).
 
+# **
+
+Oh man, it's not that hard. You just scared yourself.
