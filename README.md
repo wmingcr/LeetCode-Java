@@ -1,5 +1,6 @@
 # LeetCode
 
-Code Learning
+Code Learning, Algorithm learning;
 
 Jan 09, 2020
+
