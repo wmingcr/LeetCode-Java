@@ -16,4 +16,4 @@ No use of new array with length relating to n, SC is O(1).
 
 # Discussion
 
-Other ways, like creat a new array with length equals to length of Array A. Scan the array twice, first time assign even values, second time assign odd values. 
+Other ways, like creat a new array with length equals to length of Array A. Scan the array twice, first time assign even values, second time assign odd values. It might be easy to understand. However, it's not efficient. Have to scan the array twice, and create a new array.
