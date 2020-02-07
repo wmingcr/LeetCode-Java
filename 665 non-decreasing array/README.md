@@ -8,3 +8,5 @@
 
 After step2, we can change value for one of them; then there is no need to restart the process, just continue;
 
+So, T is just O(n).
+
