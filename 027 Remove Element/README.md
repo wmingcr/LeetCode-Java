@@ -18,4 +18,6 @@ However, if the array is [5,4,3,2,1], and target is 5. I might assign values for
 
 What we can do is that if the element equals to target, we change it with last element in the array. In this way, we can avoid many unnecessary assigning process. 
 
+Solution 2 describes how we could do it. 
+
 References: https://leetcode-cn.com/problems/remove-element/solution/yi-chu-yuan-su-by-leetcode/
