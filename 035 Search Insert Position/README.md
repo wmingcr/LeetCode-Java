@@ -1,6 +1,6 @@
 # Ideas
 
-First thought, binary search; For time complexity, it would be a goog solution.
+First thought, binary search; For time complexity, it would be a good solution.
 
 # Missed points
 
