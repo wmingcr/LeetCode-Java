@@ -1,3 +1,4 @@
+//O(m+n), O(1)
 //last part of Merge Sort,
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
