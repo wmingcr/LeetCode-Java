@@ -10,7 +10,10 @@ Several cases:
 
 3. All digits are 9.
 
-Mocking decimal.
+Mocking decimal operation,
 
 # Read solution3
 
+# References
+
+https://leetcode-cn.com/problems/plus-one/solution/hua-jie-suan-fa-66-jia-yi-by-guanpengchn/
