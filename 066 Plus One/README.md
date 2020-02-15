@@ -1,0 +1,16 @@
+# Tips
+
+If it's less than 9, then adding one; if it's 9, turn it into 0, then check the first one. 
+
+Several cases: 
+
+1. last digit is less than 9, like 4, 123, 58;
+
+2. first digit is less than 9, but with several 9s ending, like: 2399, 19, 543999;
+
+3. All digits are 9.
+
+Mocking decimal.
+
+# Read solution3
+
