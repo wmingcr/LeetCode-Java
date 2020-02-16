@@ -15,3 +15,7 @@ If it's lower than the minPrice, then record it; if not, check the profit is gre
 # new
 
 Math.max(a, b); Math.min(a, b);
+
+# References
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
