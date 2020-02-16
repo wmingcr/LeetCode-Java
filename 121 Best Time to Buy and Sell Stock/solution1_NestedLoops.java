@@ -1,3 +1,4 @@
+//T:O(n^2), S:O(1)
 class Solution {
     public int maxProfit(int[] prices) {
         //check validity of prices
