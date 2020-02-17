@@ -1,6 +1,7 @@
 /**You may not engage in multiple transactions at the same time.
 
 You may not be able to sell it and buy it again at the same day.
+Which means, you have to find the valley, and the peak, then you do the transaction.
 
 */
 class Solution {
