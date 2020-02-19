@@ -14,7 +14,9 @@ Most easiest way is nesting for loop, easy to understand,
 
 For nested for loop, time complexity is O(n^2), space complexity is O(1)
 
-However, HashMap is a better way. TC could be O(N), SC is O(N)
+However, HashMap is a better way. TC could be O(N), SC is O(N).
+
+Even more, we could traverse hashmap only once. see solution2.
 
 
 # Errors made,
