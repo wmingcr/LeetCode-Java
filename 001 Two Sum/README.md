@@ -18,6 +18,10 @@ However, HashMap is a better way. TC could be O(N), SC is O(N).
 
 Even more, we could traverse hashmap only once. see solution2.
 
+# Excellent error
+
+For this way, one tip: every time, we check whether it contains the key first; in this way, if we find the key, it must be in keys we stored before this key. So, there is not chance they are the same key.
+
 
 # Errors made,
 
