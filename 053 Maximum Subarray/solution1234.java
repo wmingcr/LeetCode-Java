@@ -8,10 +8,10 @@ class Solution {
         //return maxSubArray2(nums);
         //Runtime: 1 ms, faster than 75.84% of Java online submissions for Maximum Subarray.
         
-        //return maxSubArray3(nums);
+        return maxSubArray3(nums);
         //Runtime: 0 ms, faster than 100.00% of Java online submissions for Maximum Subarray.
         
-        return maxSubArray4From2(nums);
+        //return maxSubArray4From2(nums);
         //Runtime: 1 ms, faster than 75.84% of Java online submissions for Maximum Subarray.
         
         //first les brute force
@@ -22,14 +22,15 @@ class Solution {
     private int maxSubArray3(int [] arr){
         int preSum = 0, max = Integer.MIN_VALUE;
         for(int i = 0; i < arr.length; i++){
-            if(preSum > 0){
+            /**if(preSum > 0){
                // preSum += 
                 preSum += arr[i];
-                max = Math.max(max, preSum);
             }else{
                 preSum = arr[i];
-                max = Math.max(max, preSum);
-            }
+            }*/
+            preSum = preSum > 0 ? preSum + arr[i] : arr[i];
+            //max = Math.max(max, preSum);
+            max = max > preSum ? max : preSum;
         }
         return max;
     }
