@@ -6,7 +6,7 @@ class Solution {
         }
         
         /** method 1
-        brute force
+        Brute force
         Time complexity: O(n^2), Space complexity: O(1)
         Runtime: 168 ms, faster than 5.35% of Java online submissions for Two Sum II - Input array is sorted.
         */
@@ -45,7 +45,7 @@ class Solution {
         return twoPointers_BinarySerach(numbers, target);
         
     }
-    
+    //no more than O(n), O(1)
     private int [] twoPointers_BinarySerach(int [] arr, int target){
         int left = 0;
         int right = binarySerachForRightPosition(arr, target - arr[0]);
@@ -59,7 +59,7 @@ class Solution {
         }
         return new int [] {-1, -1};
     }
-    
+    //O(lgn), O(1)
     private int binarySerachForRightPosition(int [] arr, int target){
         int left = 1, right = arr.length - 1;
         for(int mid = left + ((right - left)>>1); left <= right; mid = left + ((right - left)>>1)){
@@ -72,7 +72,7 @@ class Solution {
         }
         return left - 1;//important, left is where we can insert the target into the array and maintain the array is not descending,
     }
-    
+    //O(nlgn), O(1)
     private int [] binarySearchDemo(int [] arr, int target){
         for(int i = 0; i < arr.length; i++){
             if(target < arr[i])
@@ -90,7 +90,7 @@ class Solution {
         }
         return new int [] {-1, -1};
     }
-    
+    //O(n), O(1)
     private int [] twoPointers(int [] arr, int target){
         int left = 0, right = arr.length - 1;//error 2, not target.length
         while(left < right){
@@ -104,7 +104,7 @@ class Solution {
         }
         return new int [] {-1, -1};
     }
-    
+    //O(n), O(n)
     private int [] withHashMap(int [] arr, int target){
         HashMap<Integer, Integer> hm = new HashMap<>();
         for(int i = 0; i < arr.length; i++){
@@ -119,7 +119,7 @@ class Solution {
         }
         return new int [] {-1, -1};
     }
-    
+    //O(n^2), O(1)
     private int [] bruteForce(int [] arr, int target){
         for(int i = 0; i < arr.length; i++){
             if(arr[i] > target){//error 2, extra =, with =, [-1, 0] looking sum -1 is not working
