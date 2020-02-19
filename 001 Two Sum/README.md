@@ -16,7 +16,7 @@ For nested for loop, time complexity is O(n^2), space complexity is O(1)
 
 However, HashMap is a better way. TC could be O(N), SC is O(N).
 
-Even more, we could traverse hashmap only once. see solution2.
+Even more, we could traverse hashmap only once. see solution2. T: O(n), S: O(n)
 
 # Excellent error
 
