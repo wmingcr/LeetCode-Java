@@ -26,6 +26,12 @@ However, HashMap is a better way. TC could be O(N), SC is O(N)
 --> return type of method map.get(key) is Object, so we need Generic to narrow it down,
 
 --> HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+
+Second time,
+
+map.containsKey(), not map.contains();
+
+return array, return new int [] {-1, -1}; not return {-1, -1};
   
 
 # PS
