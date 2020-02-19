@@ -24,6 +24,8 @@ We cand divide it into two half, find max left and right profit, and cross profi
 
 Divide it into two half, using an array to store max profit, min and max separately. Return the array.
 
+Reference, solution 4, 2020Spring, 6205pdf, page 629.
+
 # new
 
 Math.max(a, b); Math.min(a, b);
@@ -34,4 +36,3 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-f
 
 solution 3, 2020Spring, 6205pdf, page 627.
 
-solution 4, 2020Spring, 6205pdf, page 629.
