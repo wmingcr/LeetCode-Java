@@ -1,6 +1,14 @@
 # Thoughts
 
+# 1 Brute Force
+
 First time, what I thought was only BruteForce.
+
+# 2 
+
+Keep the sum, if the sum is less than 0, then there is no need to keep it. Just consider the present element as a new Start.
+
+There are two ways to record the sum: 1. keep it in an array; 2. using a variable to keep the GREATEST value of sum.
 
 # Refernces
 
