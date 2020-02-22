@@ -17,3 +17,5 @@ Reference, https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-
 # Method 4, Boyer-Moore voting
 
 Gorgeous, https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-shu-by-leetcode-2/
+
+Several way to code, see solutions.
