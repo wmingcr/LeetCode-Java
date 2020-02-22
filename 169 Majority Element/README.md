@@ -19,3 +19,9 @@ Reference, https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-
 Gorgeous, https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-shu-by-leetcode-2/
 
 Several way to code, see solutions.
+
+# Method 5, Binary
+
+If it's majority, so in every bits it's majority too. By examine every bit, we can find the majority.
+
+T, O(32n), S, O(1)
