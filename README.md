@@ -7,3 +7,7 @@ Code Learning, Algorithm learning;
 No metter how complex, inefficient the solution you figured is, do it. >>>> Most important.
 
 At the end, optimize it. 
+
+# Acmerest
+
+https://leetcode.com/uwi/
