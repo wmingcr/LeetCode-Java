@@ -1,5 +1,5 @@
 //I have this thought, but couldn't code it, 
-//Thanks to 
+//Thanks to https://leetcode-cn.com/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode/
 class Solution {
     public void rotate(int[] nums, int k) {
         //check validity
