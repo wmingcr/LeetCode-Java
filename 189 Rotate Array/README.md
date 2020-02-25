@@ -28,4 +28,4 @@ See solutionFinal for details.
 
 # One question for Method 5
 
-While there is a circle beginning with start, how to prove (start+1) is not covered after fisrt circle?
+While there is a circle beginning with start(passing values from start to next (start+k)%nums.length, until back to start), how to prove (start+1) is not covered during the fisrt circle/loop?
