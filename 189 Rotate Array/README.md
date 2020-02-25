@@ -32,4 +32,9 @@ While there is a circle beginning with start(passing values from start to next (
 
 # Learned
 
-te[i] = nums[(nums.length - k)+1 % nums.length]; it is very concise.
+int tem = nums.length - 3;
+for(int i = 0; i < nums.length; i++) {
+    te[i] = nums[(tem++) % nums.length];
+}
+
+it is very concise.
