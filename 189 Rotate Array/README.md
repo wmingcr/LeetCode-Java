@@ -25,3 +25,7 @@ T, O(n), S, (1)
 I know how to do, but don't know to code it. The one who figured it out must be genius. 
 
 See solutionFinal for details.
+
+# One question for Method 5
+
+While there is a circle beginning with start, how to prove (start+1) is not covered after fisrt circle?
