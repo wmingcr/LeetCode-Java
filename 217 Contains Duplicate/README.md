@@ -24,9 +24,7 @@ Sort array first, then if it contains duplicate elements, then they are adjacent
 
 # Method 5, 
 
-
-
-
+Still dont understand now....
 
 
 
@@ -37,7 +35,7 @@ T, O(n), S, O(1)
 
 //0 ms, 100%
 
-See explanation in solutions, It has a big bug.
+See explanation in solutions, some examples may not work for this solution.
 
 
 
