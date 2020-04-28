@@ -35,7 +35,7 @@ return array, return new int [] {-1, -1}; not return {-1, -1};
 
 Good Good Study, Day Day Up
 
-references:
+# References:
 
 https://leetcode-cn.com/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-2/
 
