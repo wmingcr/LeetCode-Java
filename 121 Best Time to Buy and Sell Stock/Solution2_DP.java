@@ -3,7 +3,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
         //check validity of prices
-        if(prices == null || prices.length == 0 || prices.length == 1){
+        if(prices == null || prices.length < 2){
             return 0;
         }
         //relatively lower price
@@ -12,11 +12,9 @@ class Solution {
             if(prices[i] < minPrice){
             //recording the lower price
                 minPrice = prices[i];
-            }else{
-                if(prices[i] - minPrice > maxProfit){
+            }else if(prices[i] - minPrice > maxProfit){
                 //recording the bigger range
-                    maxProfit = prices[i] - minPrice;
-                }
+                maxProfit = prices[i] - minPrice;
             }
         }
         return maxProfit;
