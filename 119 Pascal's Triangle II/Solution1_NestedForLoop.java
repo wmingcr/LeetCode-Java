@@ -27,3 +27,24 @@ class Solution {
         return res;
     }
 }
+
+//------
+class Solution {
+    public List<Integer> getRow(int rowIndex) {
+        List<Integer> list = new ArrayList<>();
+        
+        //validity
+        if(rowIndex < 0){
+            return list;
+        }
+        
+        for(int i = 0; i <= rowIndex; i ++){
+            list.add(1);
+            for(int j = list.size()-2; j >= 1; j--){
+                list.set(j, list.get(j)+list.get(j-1));
+            }
+        }
+        
+        return list;
+    }
+}
