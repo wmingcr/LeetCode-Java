@@ -40,28 +40,27 @@ class Solution {
         for(int i = 0; i < arr.length; i++){
             if(preSum + arr[i] > arr[i]){
                 preSum += arr[i];
-                if(max < preSum){
-                    max = preSum;
-                }
             }else{
                 preSum = arr[i];
-                if(max < preSum){
-                    max = preSum;
-                }
+            }
+            if(max < preSum){
+                max = preSum;
             }
         }
         return max;
     }
-    //Time Space: O(n), Space Time: O(1)
+    //TC: O(n), SC: O(n)
     private int maxSubArray4From2(int [] arr){
         int [] f = new int [arr.length];
         f[0] = arr[0];
         for(int i = 1; i < arr.length; i++){
-            /**if(f[i - 1] > 0){
+            /*
+            if(f[i - 1] > 0){
                 f[i] = f[i - 1] + arr[i];
             }else{
                 f[i] = arr[i];
-            }*/
+            }
+            */
             f[i] = f[i - 1] > 0 ? arr[i] + f[i - 1] : arr[i];
         }
         int max = f[0];
@@ -71,7 +70,7 @@ class Solution {
         return max;
     }
     
-    //Time Space: O(n^2), Space Time: O(1)
+    //TC: O(n^2), SC: O(1)
     private int bruteForce(int [] arr){
         int max = Integer.MIN_VALUE;
         for(int i = 0; i < arr.length; i ++){
