@@ -12,7 +12,7 @@ Two pointers, if value right pointer equals target, move it to next one; if not,
 
 Smart move. 
 
-If an array is like [1,2,3,4,5], what I did already checked if left and right pointers are pointing to the same value; and there is no need to assign values.
+If an array is like [1,2,3,4,5], what I did already checked if left and right pointers are pointing to the same value; and there is no need to do assignment.
 
 However, if the array is [5,4,3,2,1], and target is 5. I might assign values for n-1 times.
 
@@ -21,3 +21,7 @@ What we can do is that if the element equals to target, we change it with last e
 Solution 2 describes how we could do it. 
 
 References: https://leetcode-cn.com/problems/remove-element/solution/yi-chu-yuan-su-by-leetcode/
+
+# update 200428
+
+Solution2 is not good enough, if the array is like [3,3,3,3,3,3,3,3,3] and our target is 3. We have to do assignment n-1 times.
