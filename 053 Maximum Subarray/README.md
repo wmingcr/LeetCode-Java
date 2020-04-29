@@ -10,7 +10,7 @@ There are two ways to record the sum: 1. keep it in an array; 2. using a variabl
 
 ## 3 divide and conquer
 
-
+See solution. ??
 
 # Refernces
 
