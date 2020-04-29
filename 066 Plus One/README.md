@@ -10,8 +10,8 @@ Several cases:
 
 Mocking decimal operation,
 
-# Read solution3
+## Read solution2
 
-# References
+### References
 
 https://leetcode-cn.com/problems/plus-one/solution/hua-jie-suan-fa-66-jia-yi-by-guanpengchn/
