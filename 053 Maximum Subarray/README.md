@@ -1,8 +1,8 @@
-# Brute Force
+# 1 Brute Force
 
 
 
-# 2
+# 2 
 
 Keep the sum, if the sum is less than 0, then there is no need to keep it. Just consider the present element as a new Start.
 
