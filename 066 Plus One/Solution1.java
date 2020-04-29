@@ -18,3 +18,24 @@ class Solution {
         return te;
     }
 }
+//-----
+class Solution {
+    public int[] plusOne(int[] digits) {
+        //check validity
+        if(digits == null || digits.length == 0){
+            return null;
+        }
+        int carrier = 1;
+        for(int i = digits.length-1; i >= 0; i--){
+            digits[i] += carrier;
+            carrier = digits[i]/10;
+            digits[i] %= 10;
+            if(carrier == 0){
+                return digits;
+            }
+        }
+        int [] arr = new int [digits.length+1];
+        arr[0] = 1;
+        return arr;
+    }
+}
