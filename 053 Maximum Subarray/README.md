@@ -12,6 +12,10 @@ There are two ways to record the sum: 1. keep it in an array; 2. using a variabl
 
 See solution. ??
 
+## DP
+
+
+
 # Refernces
 
 https://www.youtube.com/watch?v=7J5rs56JBs8
