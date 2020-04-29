@@ -8,7 +8,7 @@ Keep the sum, if the sum is less than 0, then there is no need to keep it. Just 
 
 There are two ways to record the sum: 1. keep it in an array; 2. using a variable to keep the GREATEST value of sum.
 
-## 3 divide and conquer
+## 3 ivide and conquer
 
 See solution. ??
 
