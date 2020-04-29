@@ -29,6 +29,7 @@ class Solution {
 }
 
 //------
+//just modify outcome of last loop
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> list = new ArrayList<>();
