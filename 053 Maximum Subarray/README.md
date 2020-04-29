@@ -12,7 +12,7 @@ There are two ways to record the sum: 1. keep it in an array; 2. using a variabl
 
 See solution. ??
 
-## DP
+## 4 DP
 
 
 
