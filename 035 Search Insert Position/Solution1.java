@@ -1,3 +1,4 @@
+//deprecated//
 class Solution {
     public int searchInsert(int[] nums, int target) {
         //first thought, binary search
