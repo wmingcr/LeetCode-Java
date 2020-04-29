@@ -93,3 +93,34 @@ class Solution {
         return maxPro;
     }
 }
+
+//-----
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        int len = prices.length;
+        if (len == 0) return 0;
+
+        int buy[] = new int[len];
+        int sell[] = new int[len];
+        int temp = prices[0];
+        for (int i = 0; i < len; i++) {
+            temp = Math.min (temp, prices[i]);
+            buy[i] = temp;
+        }
+
+        temp = prices[len - 1];
+
+        for (int i = len - 1; i >= 0; i--) {
+            temp = Math.max (temp, prices[i]);
+            sell[i] = temp;
+        }
+        int result = 0;
+        for (int i = 0; i < len; i++) {
+            result = Math.max (result, sell[i] - buy[i]);
+        }
+
+        return result;
+    }
+}
+
