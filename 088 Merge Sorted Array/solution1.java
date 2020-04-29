@@ -21,3 +21,29 @@ class Solution {
         }
     }
 }
+、、----
+    class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //check validity
+        if(nums1 == null || nums2 == null || nums1.length == 0 || nums2.length == 0){
+            return;
+        }
+        int i = m+n-1;
+        n--;m--;
+        for( ; i >= 0 && m >=0 && n >= 0; i --){
+            if(nums1[m] > nums2[n]){
+                nums1[i] = nums1[m];
+                m--;
+            }else{
+                nums1[i] = nums2[n];
+                n--;
+            }
+        }
+        while(m >= 0){
+            nums1[i--] = nums1[m--];
+        }
+        while(n >= 0){
+            nums1[i--] = nums2[n--];
+        }
+    }
+}
