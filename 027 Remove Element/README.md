@@ -25,3 +25,5 @@ References: https://leetcode-cn.com/problems/remove-element/solution/yi-chu-yuan
 # update 042820
 
 Solution2 is not good enough, if the array is like [3,3,3,3,3,3,3,3,3] and our target is 3. We have to do assignment n-1 times.
+
+Solution3 is the best one so far. 
