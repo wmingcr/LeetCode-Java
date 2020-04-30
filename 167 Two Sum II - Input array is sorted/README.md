@@ -38,3 +38,7 @@ https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/solution/liang
 Best explanation for two pointers:
 
 https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/solution/yi-zhang-tu-gao-su-ni-on-de-shuang-zhi-zhen-jie-fa/
+
+面向大象编程：
+
+https://zhuanlan.zhihu.com/p/133254174
