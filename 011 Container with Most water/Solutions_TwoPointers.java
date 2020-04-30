@@ -2,7 +2,8 @@
 
 /**reference https://www.cxyxiaowu.com/9292.html
 
-For two pointers, even more, while left == right, we can skip left and right together, see : https://leetcode-cn.com/problems/container-with-most-water/solution/sheng-zui-duo-shui-de-rong-qi-by-leetcode-solution/
+For two pointers, even more, while left == right, we can skip left and right together, 
+see : https://leetcode-cn.com/problems/container-with-most-water/solution/sheng-zui-duo-shui-de-rong-qi-by-leetcode-solution/
 
 */
 class Solution {
