@@ -1,6 +1,9 @@
 //divide the matrix into four parts, two parts definitely don't contain the target
 //the other two parts might contain the target
 //https://leetcode-cn.com/problems/search-a-2d-matrix-ii/solution/sou-suo-er-wei-ju-zhen-ii-by-leetcode-2/
+/**
+TC, O(nlgn), SC, O(lgn)
+*/
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         //validity
