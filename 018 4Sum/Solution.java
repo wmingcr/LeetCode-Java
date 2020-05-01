@@ -1,3 +1,4 @@
+//Exactly same as 3 sum(P16)
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         //create a new list
