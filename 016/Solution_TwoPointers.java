@@ -1,3 +1,6 @@
+/*
+https://leetcode-cn.com/problems/3sum-closest/solution/hua-jie-suan-fa-16-zui-jie-jin-de-san-shu-zhi-he-b/
+*/
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         //validity
