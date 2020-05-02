@@ -26,6 +26,7 @@ class Solution {
         */
         
         //do optimization for above section
+        //find the left point which needs to be exchanged
         int i = nums.length-2;
         while(i >= 0){
             if(nums[i] < nums[i+1]){
@@ -33,6 +34,7 @@ class Solution {
             }
             i--;
         }
+        //find the right point
         if(i >= 0){
             int k = nums.length-1;
             while(k > i){
@@ -43,9 +45,11 @@ class Solution {
             }
             swap(nums, i, k);
         }
+        //reverse part of the array, from index i+1
         reverse(nums, i+1, nums.length-1);
     }
     
+    //reverse part of an array
     private void reverse(int [] nums, int left, int right){
         while(left < right){
             swap(nums, left, right);
@@ -54,6 +58,7 @@ class Solution {
         }
     }
     
+    //swap two element in an array
     private void swap(int [] nums, int a, int b){
         int te = nums[a];
         nums[a] = nums[b];
