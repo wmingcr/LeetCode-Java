@@ -1,3 +1,5 @@
+//don't modify, this web is using by other notes
+
 class Solution {
     public int findPeakElement(int[] nums) {
         //validity
