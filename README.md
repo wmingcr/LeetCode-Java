@@ -1,12 +1,10 @@
 # LeetCode
 
-Code Learning, Algorithm learning;
+Algorithm Practicing
 
 # Tips
 
-No metter how complex, inefficient the solution you figured is, do it. >>>> Most important.
-
-At the end, optimize it. 
+No metter how hard it is, just do it.
 
 # Acmerest
 
