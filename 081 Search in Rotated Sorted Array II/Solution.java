@@ -19,7 +19,7 @@ class Solution {
             
             //remove duplicates
             if(nums[left] == nums[mid]){
-                left++; // 牵一发，动全身，当left发生变化，mid也会发生变化，所以continue循环继续不能使用while循环在这里
+                left++; // 牵一发，动全身，当left发生变化，mid也会发生变化，所以continue循环继续. 不能使用while循环在这里
                 continue;
             }
             
