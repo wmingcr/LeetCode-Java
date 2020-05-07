@@ -43,3 +43,41 @@ class Solution {
         return max;
     }
 }
+
+
+//------------------------------------
+
+class Solution {
+    public int minMoves(int[] nums) {
+        //validity
+        if(nums == null || nums.length == 0){
+            return 0;
+        }
+        
+        int min = 0, max = 0, step = 0;
+        
+        while(true){
+            
+            for(int i = 1; i < nums.length; i ++){
+                if(nums[i] < nums[min]){
+                    min = i;
+                }
+                if(nums[i] > nums[max]){
+                    max = i;
+                }
+            }
+            
+            if(nums[min] == nums[max]){
+                break;
+            }
+            
+            for(int i = 0; i < nums.length; i ++){
+                if(i != max){
+                    nums[i] += 1;
+                }
+            }
+            step++;
+        }
+        return step;
+    }
+}
