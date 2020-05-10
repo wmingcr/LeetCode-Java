@@ -24,7 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/059 Spiral Matrix II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/066 Plus One" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/067 Add Binary" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/069 xqrt(x)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/069 Xqrt(x)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/074 Search 2D Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/081 Search in Rotated Sorted Array II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088 Merge Sorted Array" isTestSource="false" />
@@ -49,7 +49,7 @@
       <sourceFolder url="file://$MODULE_DIR$/283 Move Zeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/371 Sum of Two Integers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/374 Guess Number Higher or Lower" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/414. Third Maximum Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/414 Third Maximum Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/453 Minimum Moves to Equal Array Elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/453 Minimun Moves to Equal Array Elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/462 Minimum Moves to Equal Array Elements II" isTestSource="false" />

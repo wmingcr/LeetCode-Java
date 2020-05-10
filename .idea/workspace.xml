@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da4923b-9dfb-41d6-ab35-8b920ea23423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mingwang.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/015 3Sum/Solutions_Rewrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/015 3Sum/Solutions_Rewrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Sortion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/StackImplementation/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/StackImplementation/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/StackImplementation/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/069 xqrt(x)/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/069 Xqrt(x)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/069 xqrt(x)/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/069 Xqrt(x)/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/414. Third Maximum Number/solution_fromIntnet.java" beforeDir="false" afterPath="$PROJECT_DIR$/414 Third Maximum Number/solution_fromIntnet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/414. Third Maximum Number/solution_threeInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/414 Third Maximum Number/solution_threeInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/414. Third Maximum Number/solutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/414 Third Maximum Number/solutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Java.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +32,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/215 Kth Largest Element in an Array/src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,14 +58,32 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/015 3Sum/Solutions_Rewrite.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution2.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/SS.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/Node.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/StackDemo.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/Session.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution1.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Session.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution1.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Sortion.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_MinHeap.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSort.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Session.java" />
+        <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="180" />
-    <option name="y" value="123" />
-    <option name="width" value="1080" />
-    <option name="height" value="606" />
+    <option name="x" value="1440" />
+    <option name="width" value="1194" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -37,14 +91,48 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="215 Kth Largest Element in an Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="215 Kth Largest Element in an Array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -58,6 +146,48 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Session (1)">
+    <configuration name="Session (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session" />
+      <module name="215 Kth Largest Element in an Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Session" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.QuickSort.Session" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Session" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackImplementation.Session" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackImplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Session (1)" />
+        <item itemvalue="Application.Session" />
+        <item itemvalue="Application.Session (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,25 +203,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="0" width="1194" height="834" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2769097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SOQL Query" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Log Analyzer" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43049932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23172243" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -110,6 +241,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/215 Kth Largest Element in an Array.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="147" column="5" lean-forward="true" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="91" column="69" lean-forward="true" selection-start-line="91" selection-start-column="69" selection-end-line="91" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/SS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Sortion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
