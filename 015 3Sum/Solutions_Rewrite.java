@@ -1,7 +1,11 @@
-class Solution {
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+class Solutions_Rewrite {
     public List<List<Integer>> threeSum(int[] nums){
         //new list
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<> ();
         
         //validity
         if(nums == null || nums.length < 3){
