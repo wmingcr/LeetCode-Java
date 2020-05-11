@@ -5,10 +5,11 @@ class Solution {
             return -1;
         }
 
+        //There is no need to do corner case, since change the right pointer would cover this corner case
         //corner case
-        if(nums[0] < nums[nums.length-1]){
-            return nums[0];
-        }
+//        if(nums[0] < nums[nums.length-1]){
+//            return nums[0];
+//        }
 
         // two pointers
         int lo = 0, hi = nums.length-1;
