@@ -2,7 +2,7 @@ package sort.QuickSort;
 
 import java.util.Random;
 
-public class Solution1 {
+public class QuickSort_RandomPivot {
 
     public static void quickSort(int[] arr, int lo, int hi) {
 

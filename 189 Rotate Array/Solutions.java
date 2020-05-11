@@ -1,4 +1,4 @@
-class Solution {
+class Solutions {
     public void rotate(int[] nums, int k) {
         //check validity
         if(nums == null || nums.length <= 0 || k <= 0){

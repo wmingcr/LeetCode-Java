@@ -1,6 +1,8 @@
 // median number
 
-class Solution {
+import java.util.Arrays;
+
+class Solution_Math {
     public int minMoves2(int[] nums) {
         //validity
         if(nums == null || nums.length == 0){

@@ -1,6 +1,6 @@
 //I have this thought, but couldn't code it, 
 //Thanks to https://leetcode-cn.com/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode/
-class Solution {
+class SolutionFinal_EXCELLENT {
     public void rotate(int[] nums, int k) {
         //check validity
         if(nums == null || nums.length <= 0 || k <= 0){

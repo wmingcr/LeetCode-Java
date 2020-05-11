@@ -1,6 +1,6 @@
 package sort.QuickSort;
 
-public class Solution2 {
+public class QuickSort2 {
 
     //GeeksforGeeks
     //https://www.geeksforgeeks.org/quick-sort/

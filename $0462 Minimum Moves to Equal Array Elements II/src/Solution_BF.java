@@ -1,6 +1,8 @@
 //while calculate every steps for each element, there might be some elements' steps are overflow, so be carefull
 
-class Solution {
+import java.util.Arrays;
+
+class Solution_BF {
     public int minMoves2(int[] nums) {
         //validity
         if(nums == null || nums.length == 0){
