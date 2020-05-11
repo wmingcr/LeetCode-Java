@@ -1,6 +1,6 @@
 import java.util.Random;
 
-class Solution_Ghost_QuickSort {
+class Solution_QuickSort {
 
     public int minMoves2(int[] nums) {
 
