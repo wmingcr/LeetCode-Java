@@ -5,7 +5,6 @@ import java.util.Random;
 public class QuickSort_RandomPivot {
 
     public static void quickSort(int[] arr, int lo, int hi) {
-
         if (lo < hi) {
             int idxSorted = partition(arr, lo, hi);
             quickSort (arr, lo, idxSorted-1);

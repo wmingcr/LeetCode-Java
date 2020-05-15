@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/$0003 Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/$0003 Longest Substring Without Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/$0076 Minimum Window Substring/$0076 Minimum Window Substring.iml" filepath="$PROJECT_DIR$/$0076 Minimum Window Substring/$0076 Minimum Window Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/$0154 Find Minimum in Rotated Sorted Array II.iml" filepath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/$0154 Find Minimum in Rotated Sorted Array II.iml" />
       <module fileurl="file://$PROJECT_DIR$/$0300 Longest Increasing Subsequence/$0300 Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/$0300 Longest Increasing Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/$0462 Minimum Moves to Equal Array Elements II.iml" filepath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/$0462 Minimum Moves to Equal Array Elements II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/$0567 Permutation in String/$0567 Permutation in String.iml" filepath="$PROJECT_DIR$/$0567 Permutation in String/$0567 Permutation in String.iml" />
       <module fileurl="file://$PROJECT_DIR$/215/215.iml" filepath="$PROJECT_DIR$/215/215.iml" />
       <module fileurl="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/215 Kth Largest Element in an Array.iml" filepath="$PROJECT_DIR$/215 Kth Largest Element in an Array/215 Kth Largest Element in an Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />

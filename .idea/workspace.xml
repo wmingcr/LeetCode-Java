@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da4923b-9dfb-41d6-ab35-8b920ea23423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/$0300 Longest Increasing Subsequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution_BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution_DPBackward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/$0003 Longest Substring Without Repeating Characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0076 Minimum Window Substring/$0076 Minimum Window Substring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0076 Minimum Window Substring/src/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0076 Minimum Window Substring/src/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0567 Permutation in String/$0567 Permutation in String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +28,53 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/$0076 Minimum Window Substring/src/Session.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/$0076 Minimum Window Substring/src/ArraysDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,10 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/015 3Sum/Solutions_Rewrite.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution2.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/SS.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/Node.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/StackDemo.java" />
@@ -60,7 +107,6 @@
         <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSort.java" />
         <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Solution_RandomPivot.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort3.java" />
         <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Session.java" />
         <option value="$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSortOptimized.java" />
@@ -88,11 +134,22 @@
         <option value="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution2.java" />
         <option value="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Session.java" />
         <option value="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/README.md" />
+        <option value="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow.java" />
+        <option value="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution.java" />
+        <option value="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow3.java" />
+        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/Sessiont.java" />
+        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/QuickSort.java" />
+        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/Session.java" />
+        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" />
+        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/ArraysDemo.java" />
+        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java" />
+        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java" />
+        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="714" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -104,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,18 +171,37 @@
             <path>
               <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="$0300 Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="$0567 Permutation in String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="$0300 Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="$0567 Permutation in String" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="QuickSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,21 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Session (5)">
-    <configuration name="Session (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Session" />
-      <module name="215 Kth Largest Element in an Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Session (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Session" />
-      <module name="LeetCode-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Session">
     <configuration name="Session (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Session" />
       <module name="$0462 Minimum Moves to Equal Array Elements II" />
@@ -194,25 +255,33 @@
       </method>
     </configuration>
     <configuration name="Session" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackImplementation.Session" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StackImplementation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="Session" />
+      <module name="$0076 Minimum Window Substring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_SlidingWindow" />
+      <module name="$0003 Longest Substring Without Repeating Characters" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_SlidingWindow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution_SlidingWindow2" />
+      <module name="$0003 Longest Substring Without Repeating Characters" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Session" />
+        <item itemvalue="Application.Solution_SlidingWindow2" />
+        <item itemvalue="Application.Solution_SlidingWindow" />
         <item itemvalue="Application.Session (5)" />
         <item itemvalue="Application.Session (4)" />
-        <item itemvalue="Application.Session (3)" />
-        <item itemvalue="Application.Session (1)" />
-        <item itemvalue="Application.Session (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,8 +300,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31616595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,9 +310,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20322181" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23172243" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5340768" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23076923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -278,89 +348,16 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/015 3Sum/Solutions_Rewrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Juck/Node.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="91" column="69" lean-forward="true" selection-start-line="91" selection-start-column="69" selection-end-line="91" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/StackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/SinglyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-461">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/StackImplementation/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/SS.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Sortion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -373,13 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -554,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="3413" column="5" lean-forward="true" selection-start-line="3413" selection-start-column="5" selection-end-line="3413" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Session.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -575,6 +558,118 @@
             <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="139" column="24" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="140" column="29" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="430" column="59" lean-forward="true" selection-start-line="430" selection-start-column="59" selection-end-line="430" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="1057" column="28" lean-forward="true" selection-start-line="1057" selection-start-column="4" selection-end-line="1057" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="107" column="9" selection-start-line="104" selection-start-column="8" selection-end-line="107" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0076 Minimum Window Substring/src/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0076 Minimum Window Substring/src/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
