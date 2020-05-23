@@ -2,54 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da4923b-9dfb-41d6-ab35-8b920ea23423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0069/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0069/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0125 Valid Palindrome/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/0448 Find All Numbers Disappeard in an Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/src/Solution_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/src/Solution_Negative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/src/Solution_Rearrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/src/Solution_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0567 Permutation in String/0567 Permutation in String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1095 Find in Mountain Array/1095 Find in Mountain Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0000 Tests/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/$0000 Tests/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/$0154 Find Minimum in Rotated Sorted Array II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/0154 Find Minimum in Rotated Sorted Array II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/src/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/src/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0154 Find Minimum in Rotated Sorted Array II/src/Solution错误示例.java" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/src/Solution错误示例.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0274 H-Index/$0274 H-Index.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0069/0069.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0274 H-Index/src/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/0274 H-Index/src/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0274 H-Index/src/Solution_CountingSortBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/0274 H-Index/src/Solution_CountingSortBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0274 H-Index/src/Solution_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/0274 H-Index/src/Solution_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0275 H-Index II/$0275 H-Index II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0125 Valid Palindrome/0125 Valid Palindrome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0275 H-Index II/src/Solution_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/0275 H-Index II/src/Solution_BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0275 H-Index II/src/Solution_BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/0275 H-Index II/src/Solution_BruteForce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/$0300 Longest Increasing Subsequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0274 H-Index/0274 H-Index.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/src/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/src/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution_BruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/src/Solution_BruteForce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0300 Longest Increasing Subsequence/src/Solution_DPBackward.java" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/src/Solution_DPBackward.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/$0462 Minimum Moves to Equal Array Elements II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/0462 Minimum Moves to Equal Array Elements II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/src/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/src/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/src/Solution_BF.java" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/src/Solution_BF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/src/Solution_Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/src/Solution_Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0462 Minimum Moves to Equal Array Elements II/src/Solution_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/src/Solution_QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0567 Permutation in String/$0567 Permutation in String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0275 H-Index II/0275 H-Index II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_SlidingWindowArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_SlidingWindowOptimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$1095 Find in Mountain Array/$1095 Find in Mountain Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/0300 Longest Increasing Subsequence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/$1095 Find in Mountain Array/src/SolutionBest.java" beforeDir="false" afterPath="$PROJECT_DIR$/1095 Find in Mountain Array/src/SolutionBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0062 Unique Paths/0062 Unique Paths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0062 Unique Paths/src/Solution_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0062 Unique Paths/src/Solution_DPOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0062 Unique Paths/src/Solution_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0063 Unique Paths II/0063 Unique Paths II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DPOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/0073 Set Matrix Zeroes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_DummyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Important.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_SpaceOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_TheBest_Official.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_mnSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0075 Sort Colors/0075 Sort Colors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0075 Sort Colors/src/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0075 Sort Colors/src/Official_OnePass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0075 Sort Colors/src/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0075 Sort Colors/src/Solution_Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0078 Subsets/0078 Subsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0875 Koko Eating Bananas/0875 Koko Eating Bananas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_OptimizedRoundUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/1300 Sum of Mutated Array Closest to Target.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution_BS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/069 Xqrt(x)/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/069 Xqrt(x)/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0000 Tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/$0000 Tests/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0442 Find All Duplicates in an Array/Solution_Rearrange$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/0442 Find All Duplicates in an Array/Solution_Rearrange$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0000 Tests/0000 Tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/0000 Tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0000 Tests/src/QuickSortDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0000 Tests/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +48,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,29 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution.java" />
-        <option value="$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow3.java" />
-        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/Sessiont.java" />
-        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/QuickSort.java" />
-        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/Session.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" />
-        <option value="$PROJECT_DIR$/$0076 Minimum Window Substring/src/ArraysDemo.java" />
-        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_HashMap.java" />
-        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_Array.java" />
-        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowArray.java" />
-        <option value="$PROJECT_DIR$/$0567 Permutation in String/src/Solution_SlidingWindowOptimized.java" />
-        <option value="$PROJECT_DIR$/$0275/src/Solution_BruteForce.java" />
-        <option value="$PROJECT_DIR$/$0275/src/Solution_BinarySearch.java" />
-        <option value="$PROJECT_DIR$/$0274 H-Index/src/Solution_Sort.java" />
-        <option value="$PROJECT_DIR$/$0274 H-Index/src/Session.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/sort/CountingSort/CountingSort.java" />
-        <option value="$PROJECT_DIR$/$0274 H-Index/src/Solution_CountingSortBinarySearch.java" />
-        <option value="$PROJECT_DIR$/$0000 Junk Test/src/Test.java" />
-        <option value="$PROJECT_DIR$/$1095 Find in Mountain Array/src/SolutionBest.java" />
-        <option value="$PROJECT_DIR$/$0088 Merge Sorted Array/src/Solution_Optimized.java" />
-        <option value="$PROJECT_DIR$/$0004 Median of Two Sorted Arrays/src/Solution_liweiwei1419.java" />
-        <option value="$PROJECT_DIR$/$0004 Median of Two Sorted Arrays/src/Solution.java" />
         <option value="$PROJECT_DIR$/0287 Find the Duplicated Number/src/Solution_BinarySearch.java" />
         <option value="$PROJECT_DIR$/$0000 Tests/src/QuickSortDemo.java" />
         <option value="$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/README.md" />
@@ -138,14 +120,35 @@
         <option value="$PROJECT_DIR$/069 Xqrt(x)/Solution.java" />
         <option value="$PROJECT_DIR$/0069/src/Solution.java" />
         <option value="$PROJECT_DIR$/0069/README.md" />
+        <option value="$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_MaxValue.java" />
+        <option value="$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_OptimizedRoundUp.java" />
+        <option value="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution.java" />
+        <option value="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Session.java" />
+        <option value="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution_BS.java" />
+        <option value="$PROJECT_DIR$/0062 Unique Paths/src/Solution_Math.java" />
+        <option value="$PROJECT_DIR$/0062 Unique Paths/src/Solution_DP.java" />
+        <option value="$PROJECT_DIR$/0062 Unique Paths/src/Solution_DPOptimized.java" />
+        <option value="$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DP.java" />
+        <option value="$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DPOptimized.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_mnSpace.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_SpaceOptimized.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Important.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Set.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_DummyValue.java" />
+        <option value="$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_TheBest_Official.java" />
+        <option value="$PROJECT_DIR$/0075 Sort Colors/src/Solution_Counting.java" />
+        <option value="$PROJECT_DIR$/0075 Sort Colors/src/CountingSort.java" />
+        <option value="$PROJECT_DIR$/0075 Sort Colors/src/Session.java" />
+        <option value="$PROJECT_DIR$/0075 Sort Colors/src/Official_OnePass.java" />
+        <option value="$PROJECT_DIR$/0000 Tests/src/Test.java" />
+        <option value="$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java" />
+        <option value="$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="58" />
-    <option name="width" value="1194" />
-    <option name="height" value="756" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,14 +165,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="0000 Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="0000 Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,29 +219,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.CountingSort.CountingSort" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.CountingSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Session (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.DualPivotQuickSort.Session" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.DualPivotQuickSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.QuanPaiLie">
+    <configuration name="QuanPaiLie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanPaiLie" />
+      <module name="0000 Tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,22 +234,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="0000 Tests" />
+    <configuration name="Session (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session" />
+      <module name="0075 Sort Colors" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunkTest.Test1" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JunkTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Session" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session" />
+      <module name="1300 Sum of Mutated Array Closest to Target" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="0000 Tests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -308,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuanPaiLie" />
+        <item itemvalue="Application.Session (3)" />
+        <item itemvalue="Application.Session" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Session (2)" />
-        <item itemvalue="Application.Session (1)" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.CountingSort" />
       </list>
     </recent_temporary>
   </component>
@@ -330,9 +326,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="58" width="1194" height="756" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3923611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,8 +337,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3438914" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23076923" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27969348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28169015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -379,198 +375,27 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/$0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java</url>
+          <url>file://$PROJECT_DIR$/0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Session.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0075 Sort Colors/src/Session.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0275 H-Index II/src/Solution_BruteForce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_MinHeadContinueOptimize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0274 H-Index/src/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/CountingSort/CountingSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="85" column="9" lean-forward="true" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/JunkTest/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/Sorting/asdfa.java" />
-    <entry file="file://$PROJECT_DIR$/0274 H-Index/src/Solution_CountingSortBinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0274 H-Index/src/Solution_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1095 Find in Mountain Array/src/SolutionBest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#2965#3621#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/$0088 Merge Sorted Array/src/Solution_Optimized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/$0004 Median of Two Sorted Arrays/src/Solution_liweiwei1419.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="1" column="123" selection-start-line="1" selection-start-column="123" selection-end-line="1" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/$0004 Median of Two Sorted Arrays/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0287 Find the Duplicated Number/src/Solution_BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="100" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0287 Find the Duplicated Number/src/Solution_快慢指针.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/$0000 Tests/src/QuickSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="146" column="29" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="325" lean-forward="true" selection-start-line="325" selection-end-line="325" />
-          <folding>
-            <element signature="e#2098#2158#0" expanded="true" />
-            <element signature="e#7503#9597#1" />
-            <element signature="e#7549#7738#0" expanded="true" />
-            <element signature="e#8139#8217#0" expanded="true" />
-            <element signature="e#8403#8850#0" expanded="true" />
-            <element signature="e#9716#10049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_Gosht.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215 Kth Largest Element in an Array/src/Solution_MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/DualPivotQuickSortion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0141 Linked List Cycle/src/Solution_TwoPointers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0141 Linked List Cycle/src/Solution_HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0142 Linked List Cycle II/src/Solution_TwoPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0041 First Missing Positive/src/Solution_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0041 First Missing Positive/src/Solution_Sort_BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -693,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/$0000 Tests/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0125 Valid Palindrome/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -707,13 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/069 Xqrt(x)/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/069 Xqrt(x)/Solution.java" />
     <entry file="file://$PROJECT_DIR$/0069/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -742,6 +554,186 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/000/README.md" />
+    <entry file="file://$PROJECT_DIR$/0000 Testsasdfasd/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_MaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0875 Koko Eating Bananas/src/Solution_OptimizedRoundUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Solution_BS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0062 Unique Paths/0062 Unique Paths.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0062 Unique Paths/src/Solution_DPOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0062 Unique Paths/src/Solution_Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0062 Unique Paths/src/Solution_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0063 Unique Paths II/src/Solution_DPOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_mnSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_SpaceOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_Important.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_TheBest_Official.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0073 Set Matrix Zeroes/src/Solution_DummyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="70" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/src/sort/CountingSort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="73" column="8" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0075 Sort Colors/src/Solution_Counting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0075 Sort Colors/src/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/src/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0075 Sort Colors/src/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="187" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0000 Tests/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0075 Sort Colors/src/Official_OnePass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
