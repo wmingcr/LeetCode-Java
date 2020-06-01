@@ -12,7 +12,7 @@ public class Official_Approach1部分未理解 {
             for (int num : nums) {
 
                 List<List<Integer>> newSubsets = new ArrayList ();
-
+                // 这个添加方式？
                 for (List<Integer> curr : output) {
                     newSubsets.add (new ArrayList<Integer> (curr) {
                         {

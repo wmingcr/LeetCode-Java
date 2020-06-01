@@ -2,10 +2,10 @@
 
 Algorithm Practicing
 
-# Tips
+## Tips
 
 No metter how hard it is, just do it.
 
-# Acmerest
+## Acmerest
 
 https://leetcode.com/uwi/
