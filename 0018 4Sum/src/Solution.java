@@ -1,9 +1,13 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 //Exactly same as 3 sum(P16)
 //https://leetcode-cn.com/problems/4sum/solution/ji-bai-9994de-yong-hu-you-dai-ma-you-zhu-shi-by-yo/
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         //create a new list
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<> ();
         
         //validity
         if(nums == null || nums.length < 4){

@@ -2,163 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da4923b-9dfb-41d6-ab35-8b920ea23423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jdk_11_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0000 Tests/src/Backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/src/SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013 Roman to Integer/src/TwoForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013 Roman to Integer/src/TwoForLoopsOptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013 Roman to Integer/src/WithHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0022 Generate Parentheses/src/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0022 Generate Parentheses/src/BackTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0022 Generate Parentheses/src/BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0022 Generate Parentheses/src/OptimizedRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0039 Combination Sum/0039 Combination Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0039 Combination Sum/src/BackTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0040 Combination Sum II/0040 Combination Sum II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0040 Combination Sum II/src/BackTrackOpti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0040 Combination Sum II/src/Backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0040 Combination Sum II/避免重复.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/0046 Permutations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/DequeNotStack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/src/BackTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/src/Liweiwei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/src/SpaceComplexity问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/src/SwapElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0046 Permutations/src/WeiweiAns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0047 Permutations II/0047 Permutations II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0047 Permutations II/src/Backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0049 Group Anagrams/0049 Group Anagrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0049 Group Anagrams/src/BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0049 Group Anagrams/src/HashMapD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0051 N-Queens/0051 N-Queens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0060 Permutation Sequence/0060 Permutation Sequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0060 Permutation Sequence/src/SwapElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0077 Combinations/0077 Combinations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0077 Combinations/src/BackTrackOptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0077 Combinations/src/Backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/BestExplanation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/Lexicographic_BitMask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/PreInPostOrder不太懂.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/TheBestBitMask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0078 Subsets/src/backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0093 Restore IP Addresses/0093 Restore IP Addresses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0093 Restore IP Addresses/src/Backtrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0093 Restore IP Addresses/src/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0424 Longest Repeating Character Replacement/0424 Longest Repeating Character Replacement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0424 Longest Repeating Character Replacement/src/SlidingWindowArrayFastest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0424 Longest Repeating Character Replacement/src/SlidingWindowCharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0424 Longest Repeating Character Replacement/src/SlidingWindowMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0567 Permutation in String/src/SlidingWindowArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0567 Permutation in String/src/SlidingWindowHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0643 Maximum Average Subarray I/0643 Maximum Average Subarray I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0643 Maximum Average Subarray I/src/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0784 Letter Case Permutation/0784 Letter Case Permutation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0784 Letter Case Permutation/src/DfsNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0904 Fruit Into Baskets/0904 Fruit Into Baskets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0904 Fruit Into Baskets/src/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0904 Fruit Into Baskets/src/TwoPointerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0904 Fruit Into Baskets/src/TwoPointersMove1Step.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0904 Fruit Into Baskets/src/错误示例.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1464 Maximum Product of Two Elements in an Array/1464 Maximum Product of Two Elements in an Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1464 Maximum Product of Two Elements in an Array/src/FindTopTwoMaxs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1464 Maximum Product of Two Elements in an Array/src/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/Algorithms-beisong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/backtrack/BackTrackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/backtrack/NQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/bitmask/Bitmask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/bitmask/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/mapImplementation/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms-beisong/src/mapImplementation/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0018 4Sum/0018 4Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0018 4Sum/src/TwoPointers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0030 Substring with Concatenation of All Words/0030 Substring with Concatenation of All Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0030 Substring with Concatenation of All Words/src/MayBeOneOfTheBest不确定.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0030 Substring with Concatenation of All Words/src/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0030 Substring with Concatenation of All Words/src/SlidingWindow取巧.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0076 Minimum Window Substring/src/SlidingWindowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0076 Minimum Window Substring/src/SlidingWindowHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0438 Find All Anagrams in a String/0438 Find All Anagrams in a String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0438 Find All Anagrams in a String/src/SlidingWindowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/0581 Shortest Unsorted Continuous Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/BruteForceSlower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/OptimizedBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/SrotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/TheBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/TheBest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/Traverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/WithStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0713 Subarray Product Less Than K/0713 Subarray Product Less Than K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0713 Subarray Product Less Than K/src/SlidingWindowTwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0713 Subarray Product Less Than K/src/SlidingWindow_nsquare_TimeLimitExceeded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0844 Backspace String Compare/0844 Backspace String Compare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0844 Backspace String Compare/src/TwoPointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0000 Tests/0000 Tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/0000 Tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/src/QuanPaiLie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Characters/0003 Longest Substring Without Repeating Characters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/0003 Longest Substring Without Repeating Character.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/src/SlidingWindow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/src/SlidingWindow2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Characters/src/Solution_SlidingWindow3.java" beforeDir="false" afterPath="$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/src/SlidingWindow3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0004 Median of Two Sorted Arrays/0004 Median of Two Sorted Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0004 Median of Two Sorted Arrays/0004 Median of Two Sorted Arrays.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0041 First Missing Positive/0041 First Missing Positive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0041 First Missing Positive/0041 First Missing Positive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0062 Unique Paths/0062 Unique Paths.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0062 Unique Paths/0062 Unique Paths.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0063 Unique Paths II/0063 Unique Paths II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0063 Unique Paths II/0063 Unique Paths II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0069/0069.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0069/0069.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0073 Set Matrix Zeroes/0073 Set Matrix Zeroes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0073 Set Matrix Zeroes/0073 Set Matrix Zeroes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0075 Sort Colors/0075 Sort Colors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0075 Sort Colors/0075 Sort Colors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0076 Minimum Window Substring/0076 Minimum Window Substring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0076 Minimum Window Substring/0076 Minimum Window Substring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0078 Subsets/0078 Subsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0078 Subsets/0078 Subsets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java" beforeDir="false" afterPath="$PROJECT_DIR$/0078 Subsets/src/Official_Approach1部分未理解.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0088 Merge Sorted Array/0088 Merge Sorted Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0088 Merge Sorted Array/0088 Merge Sorted Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0125 Valid Palindrome/0125 Valid Palindrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0125 Valid Palindrome/0125 Valid Palindrome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0141 Linked List Cycle/0141 Linked List Cycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0141 Linked List Cycle/0141 Linked List Cycle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0142 Linked List Cycle II/0142 Linked List Cycle II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0142 Linked List Cycle II/0142 Linked List Cycle II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/0154 Find Minimum in Rotated Sorted Array II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0154 Find Minimum in Rotated Sorted Array II/0154 Find Minimum in Rotated Sorted Array II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0274 H-Index/0274 H-Index.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0274 H-Index/0274 H-Index.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0275 H-Index II/0275 H-Index II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0275 H-Index II/0275 H-Index II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0287 Find the Duplicated Number/0287 Find the Duplicated Number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0287 Find the Duplicated Number/0287 Find the Duplicated Number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/0300 Longest Increasing Subsequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0300 Longest Increasing Subsequence/0300 Longest Increasing Subsequence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0442 Find All Duplicates in an Array/0442 Find All Duplicates in an Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0442 Find All Duplicates in an Array/0442 Find All Duplicates in an Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/0448 Find All Numbers Disappeard in an Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0448 Find All Numbers Disappeard in an Array/0448 Find All Numbers Disappeard in an Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/0462 Minimum Moves to Equal Array Elements II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0462 Minimum Moves to Equal Array Elements II/0462 Minimum Moves to Equal Array Elements II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0567 Permutation in String/0567 Permutation in String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0013 Roman to Integer/0013 Roman to Integer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_SlidingWindowArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0567 Permutation in String/src/Solution_SlidingWindowOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/0567 Permutation in String/src/SlidingWindowOptimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0875 Koko Eating Bananas/0875 Koko Eating Bananas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0875 Koko Eating Bananas/0875 Koko Eating Bananas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1095 Find in Mountain Array/1095 Find in Mountain Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1095 Find in Mountain Array/1095 Find in Mountain Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/1300 Sum of Mutated Array Closest to Target.iml" beforeDir="false" afterPath="$PROJECT_DIR$/1300 Sum of Mutated Array Closest to Target/1300 Sum of Mutated Array Closest to Target.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0022 Generate Parentheses/0022 Generate Parentheses.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/StackImplementation/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/stackImplementation/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/StackImplementation/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/stackImplementation/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/StackImplementation/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/stackImplementation/StackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/CountingSort/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/CountingSort/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/DualPivotQuickSortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/DualPivotQuickSort/DualPivotQuickSortion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/DualPivotQuickSort/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/DualPivotQuickSort/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/DualPivotQuickSort/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/QuickSort/QuickSort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/QuickSort_RandomPivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/QuickSort/QuickSort_RandomPivot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/sort/QuickSort/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-beisong/src/sort/QuickSort/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Qs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Qs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0000 Tests/QuickSortDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0000 Tests/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0003 Longest Substring Without Repeating Characters/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0003 Longest Substring Without Repeating Characters/Solution_SlidingWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0076 Minimum Window Substring/ArraysDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0076 Minimum Window Substring/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/META-INF/$0300 Longest Increasing Subsequence.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/Solution_BruteForce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0300 Longest Increasing Subsequence/Solution_DPBackward.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Ghost Minimum Moves to Equal Array Elements II/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Ghost Minimum Moves to Equal Array Elements II/Solution_BF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Ghost Minimum Moves to Equal Array Elements II/Solution_Ghost_QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Ghost Minimum Moves to Equal Array Elements II/Solution_Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Minimum Moves to Equal Array Elements II/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Minimum Moves to Equal Array Elements II/Solution_BF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Minimum Moves to Equal Array Elements II/Solution_Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$0462 Minimum Moves to Equal Array Elements II/Solution_QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$154 Find Minimum in Rotated Sorted Array II/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/$154 Find Minimum in Rotated Sorted Array II/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0000 Tests/QuanPaiLie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/0000 Tests/QuanPaiLie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/META-INF/215 Kth Largest Element in an Array.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Session.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_Gosht.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_MinHeadContinueOptimize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_MinHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_MinHeapOptimized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_QuickSortOptimized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/215 Kth Largest Element in an Array/Solution_Sortion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/Session.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/SinglyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/SinglyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/StackImplementation/StackDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/sort/DualPivotQuickSort/DualPivotQuickSortion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/sort/DualPivotQuickSort/DualPivotQuickSortion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/sort/DualPivotQuickSort/Session.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/sort/DualPivotQuickSort/Session.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0000 Tests/src/Backtrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/src/Backtrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0076 Minimum Window Substring/src/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0076 Minimum Window Substring/src/QuickSortDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0076 Minimum Window Substring/src/Session.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/018 4Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/0018 4Sum/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -210,14 +84,7 @@
       <recent name="$PROJECT_DIR$/LeetCode/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SlidingWindow">
-    <configuration name="Backtrack (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtrack" />
-      <module name="0093 Restore IP Addresses" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Traverse">
     <configuration name="Backtrack (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backtrack" />
       <module name="0000 Tests" />
@@ -225,16 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Backtrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtrack" />
-      <module name="0077 Combinations" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For" />
-      <module name="0643 Maximum Average Subarray I" />
+    <configuration name="SlidingWindow (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow" />
+      <module name="0030 Substring with Concatenation of All Words" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,6 +102,20 @@
     <configuration name="SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SlidingWindow" />
       <module name="0003 Longest Substring Without Repeating Character" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlidingWindowTwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindowTwoPointer" />
+      <module name="0713 Subarray Product Less Than K" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Traverse" />
+      <module name="0581 Shortest Unsorted Continuous Subarray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -295,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Traverse" />
+        <item itemvalue="Application.SlidingWindowTwoPointer" />
+        <item itemvalue="Application.SlidingWindow (1)" />
         <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.Backtrack (3)" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.Backtrack (2)" />
-        <item itemvalue="Application.Backtrack" />
       </list>
     </recent_temporary>
   </component>
@@ -325,106 +199,122 @@
       <screen x="1440" y="0" width="1194" height="756" />
     </state>
     <state x="1600" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590519343109" />
-    <state width="1152" height="158" key="GridCell.Tab.0.bottom" timestamp="1591033586249">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.0.bottom" timestamp="1591211186785">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/-1194.37.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590903318004" />
     <state width="1152" height="525" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590379465574" />
     <state width="1152" height="117" key="GridCell.Tab.0.bottom/1440.0.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590528927206" />
     <state width="1152" height="613" key="GridCell.Tab.0.bottom/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000066" />
     <state width="1440" height="762" key="GridCell.Tab.0.bottom/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590631528854" />
+    <state width="1152" height="161" key="GridCell.Tab.0.bottom/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186785" />
     <state width="1152" height="613" key="GridCell.Tab.0.bottom/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080802" />
     <state width="1440" height="689" key="GridCell.Tab.0.bottom/1440.23.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590632635179" />
-    <state width="1152" height="158" key="GridCell.Tab.0.bottom/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586249" />
+    <state width="1152" height="198" key="GridCell.Tab.0.bottom/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355980" />
+    <state width="1152" height="211" key="GridCell.Tab.0.bottom/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591137083300" />
     <state width="1193" height="386" key="GridCell.Tab.0.bottom/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806278721" />
     <state width="1152" height="213" key="GridCell.Tab.0.bottom/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590868870782" />
     <state width="1194" height="473" key="GridCell.Tab.0.bottom/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590790120379" />
     <state width="1193" height="386" key="GridCell.Tab.0.bottom/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467273" />
-    <state width="1152" height="158" key="GridCell.Tab.0.center" timestamp="1591033586248">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.0.center" timestamp="1591211186783">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1398" height="265" key="GridCell.Tab.0.center/-1194.37.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590903318001" />
     <state width="1152" height="525" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590379465572" />
     <state width="1152" height="117" key="GridCell.Tab.0.center/1440.0.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590528927204" />
     <state width="1152" height="613" key="GridCell.Tab.0.center/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000065" />
     <state width="1440" height="762" key="GridCell.Tab.0.center/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590631528842" />
+    <state width="1152" height="161" key="GridCell.Tab.0.center/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186783" />
     <state width="1152" height="613" key="GridCell.Tab.0.center/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080798" />
     <state width="1440" height="689" key="GridCell.Tab.0.center/1440.23.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590632635176" />
-    <state width="1152" height="158" key="GridCell.Tab.0.center/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586248" />
+    <state width="1152" height="198" key="GridCell.Tab.0.center/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355978" />
+    <state width="1152" height="211" key="GridCell.Tab.0.center/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591137083298" />
     <state width="1193" height="386" key="GridCell.Tab.0.center/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806278710" />
     <state width="1152" height="213" key="GridCell.Tab.0.center/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590868870780" />
     <state width="1194" height="473" key="GridCell.Tab.0.center/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590790120378" />
     <state width="1193" height="386" key="GridCell.Tab.0.center/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467270" />
-    <state width="1152" height="158" key="GridCell.Tab.0.left" timestamp="1591033586247">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.0.left" timestamp="1591211186782">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1398" height="265" key="GridCell.Tab.0.left/-1194.37.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590903318000" />
     <state width="1152" height="525" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590379465572" />
     <state width="1152" height="117" key="GridCell.Tab.0.left/1440.0.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590528927200" />
     <state width="1152" height="613" key="GridCell.Tab.0.left/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000064" />
     <state width="1440" height="762" key="GridCell.Tab.0.left/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590631528831" />
+    <state width="1152" height="161" key="GridCell.Tab.0.left/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186782" />
     <state width="1152" height="613" key="GridCell.Tab.0.left/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080763" />
     <state width="1440" height="689" key="GridCell.Tab.0.left/1440.23.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590632635173" />
-    <state width="1152" height="158" key="GridCell.Tab.0.left/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586247" />
+    <state width="1152" height="198" key="GridCell.Tab.0.left/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355977" />
+    <state width="1152" height="211" key="GridCell.Tab.0.left/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591137083297" />
     <state width="1193" height="386" key="GridCell.Tab.0.left/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806278709" />
     <state width="1152" height="213" key="GridCell.Tab.0.left/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590868870779" />
     <state width="1194" height="473" key="GridCell.Tab.0.left/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590790120374" />
     <state width="1193" height="386" key="GridCell.Tab.0.left/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467269" />
-    <state width="1152" height="158" key="GridCell.Tab.0.right" timestamp="1591033586249">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.0.right" timestamp="1591211186784">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1398" height="265" key="GridCell.Tab.0.right/-1194.37.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590903318002" />
     <state width="1152" height="525" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590379465573" />
     <state width="1152" height="117" key="GridCell.Tab.0.right/1440.0.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590528927204" />
     <state width="1152" height="613" key="GridCell.Tab.0.right/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000066" />
     <state width="1440" height="762" key="GridCell.Tab.0.right/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590631528852" />
+    <state width="1152" height="161" key="GridCell.Tab.0.right/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186784" />
     <state width="1152" height="613" key="GridCell.Tab.0.right/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080800" />
     <state width="1440" height="689" key="GridCell.Tab.0.right/1440.23.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590632635178" />
-    <state width="1152" height="158" key="GridCell.Tab.0.right/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586249" />
+    <state width="1152" height="198" key="GridCell.Tab.0.right/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355979" />
+    <state width="1152" height="211" key="GridCell.Tab.0.right/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591137083299" />
     <state width="1193" height="386" key="GridCell.Tab.0.right/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806278720" />
     <state width="1152" height="213" key="GridCell.Tab.0.right/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590868870781" />
     <state width="1194" height="473" key="GridCell.Tab.0.right/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590790120378" />
     <state width="1193" height="386" key="GridCell.Tab.0.right/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467272" />
-    <state width="1152" height="158" key="GridCell.Tab.1.bottom" timestamp="1591033586252">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.1.bottom" timestamp="1591211186792">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1152" height="613" key="GridCell.Tab.1.bottom/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000068" />
     <state width="1152" height="613" key="GridCell.Tab.1.bottom/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590630713629" />
+    <state width="1152" height="161" key="GridCell.Tab.1.bottom/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186792" />
     <state width="1152" height="613" key="GridCell.Tab.1.bottom/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080805" />
-    <state width="1152" height="158" key="GridCell.Tab.1.bottom/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586252" />
+    <state width="1152" height="198" key="GridCell.Tab.1.bottom/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355986" />
+    <state width="1152" height="198" key="GridCell.Tab.1.bottom/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591131702223" />
     <state width="1193" height="386" key="GridCell.Tab.1.bottom/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806279054" />
     <state width="1152" height="158" key="GridCell.Tab.1.bottom/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590867550827" />
     <state width="1194" height="473" key="GridCell.Tab.1.bottom/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590805574979" />
     <state width="1193" height="386" key="GridCell.Tab.1.bottom/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467277" />
-    <state width="1152" height="158" key="GridCell.Tab.1.center" timestamp="1591033586251">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.1.center" timestamp="1591211186788">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1152" height="613" key="GridCell.Tab.1.center/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000067" />
     <state width="1152" height="613" key="GridCell.Tab.1.center/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590630713627" />
+    <state width="1152" height="161" key="GridCell.Tab.1.center/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186788" />
     <state width="1152" height="613" key="GridCell.Tab.1.center/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080803" />
-    <state width="1152" height="158" key="GridCell.Tab.1.center/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586251" />
+    <state width="1152" height="198" key="GridCell.Tab.1.center/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355981" />
+    <state width="1152" height="198" key="GridCell.Tab.1.center/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591131702220" />
     <state width="1193" height="386" key="GridCell.Tab.1.center/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806279053" />
     <state width="1152" height="158" key="GridCell.Tab.1.center/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590867550825" />
     <state width="1194" height="473" key="GridCell.Tab.1.center/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590805574976" />
     <state width="1193" height="386" key="GridCell.Tab.1.center/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467274" />
-    <state width="1152" height="158" key="GridCell.Tab.1.left" timestamp="1591033586250">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.1.left" timestamp="1591211186786">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1152" height="613" key="GridCell.Tab.1.left/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000067" />
     <state width="1152" height="613" key="GridCell.Tab.1.left/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590630713626" />
+    <state width="1152" height="161" key="GridCell.Tab.1.left/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186786" />
     <state width="1152" height="613" key="GridCell.Tab.1.left/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080803" />
-    <state width="1152" height="158" key="GridCell.Tab.1.left/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586250" />
+    <state width="1152" height="198" key="GridCell.Tab.1.left/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355980" />
+    <state width="1152" height="198" key="GridCell.Tab.1.left/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591131702219" />
     <state width="1193" height="386" key="GridCell.Tab.1.left/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806279052" />
     <state width="1152" height="158" key="GridCell.Tab.1.left/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590867550824" />
     <state width="1194" height="473" key="GridCell.Tab.1.left/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590805574975" />
     <state width="1193" height="386" key="GridCell.Tab.1.left/1440.96.1194.733/0.23.1440.806@0.23.1440.806" timestamp="1590806467274" />
-    <state width="1152" height="158" key="GridCell.Tab.1.right" timestamp="1591033586251">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state width="1152" height="161" key="GridCell.Tab.1.right" timestamp="1591211186791">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state width="1152" height="613" key="GridCell.Tab.1.right/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590635000068" />
     <state width="1152" height="613" key="GridCell.Tab.1.right/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590630713628" />
+    <state width="1152" height="161" key="GridCell.Tab.1.right/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591211186791" />
     <state width="1152" height="613" key="GridCell.Tab.1.right/1440.23.1194.733/0.0.1440.829@0.0.1440.829" timestamp="1590632080804" />
-    <state width="1152" height="158" key="GridCell.Tab.1.right/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591033586251" />
+    <state width="1152" height="198" key="GridCell.Tab.1.right/1440.41.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1591084355983" />
+    <state width="1152" height="198" key="GridCell.Tab.1.right/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591131702222" />
     <state width="1193" height="386" key="GridCell.Tab.1.right/1440.73.1194.756/0.0.1440.900@0.0.1440.900" timestamp="1590806279053" />
     <state width="1152" height="158" key="GridCell.Tab.1.right/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590867550826" />
     <state width="1194" height="473" key="GridCell.Tab.1.right/1440.73.1194.756/0.23.1440.806@1440.73.1194.756" timestamp="1590805574977" />
@@ -433,12 +323,13 @@
       <screen x="1440" y="0" width="1194" height="756" />
     </state>
     <state x="1538" y="17" key="SettingsEditor/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590260442208" />
-    <state x="1440" y="42" width="1194" height="755" key="new project wizard" timestamp="1591032014781">
-      <screen x="1440" y="41" width="1194" height="756" />
+    <state x="1440" y="145" width="1194" height="755" key="new project wizard" timestamp="1591208493809">
+      <screen x="1440" y="144" width="1194" height="756" />
     </state>
     <state x="1440" y="1" key="new project wizard/1440.0.1194.756/0.0.1440.900@1440.0.1194.756" timestamp="1590630493131" />
     <state x="1718" y="139" width="614" height="470" key="new project wizard/1440.0.1194.756/0.23.1440.806@1440.0.1194.756" timestamp="1590361447808" />
-    <state x="1440" y="42" width="1194" height="755" key="new project wizard/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591032014781" />
+    <state x="1440" y="145" key="new project wizard/1440.144.1194.756/0.0.1440.900@1440.144.1194.756" timestamp="1591208493809" />
+    <state x="1440" y="42" width="1194" height="755" key="new project wizard/1440.41.1194.756/0.0.1440.900@1440.41.1194.756" timestamp="1591152439396" />
     <state x="1440" y="74" width="1194" height="755" key="new project wizard/1440.73.1194.756/0.0.1440.900@1440.73.1194.756" timestamp="1590867371256" />
   </component>
   <component name="XDebuggerManager">
@@ -498,6 +389,11 @@
           <url>file://$PROJECT_DIR$/0003 Longest Substring Without Repeating Character/src/SlidingWindow.java</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0581 Shortest Unsorted Continuous Subarray/src/Traverse.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

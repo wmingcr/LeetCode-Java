@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ArraysDemo {
+public class QuickSortDemo {
 
     public static void quickSort(int[] arr){
         if(arr == null || arr.length <= 1){
