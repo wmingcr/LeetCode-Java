@@ -7,6 +7,8 @@ public class 错误示例 {
         // 需要 删到0，而不是，删到右边的1的位置，所以还是需要用双指针一点一点来移动
     }
 
+    
+
     static class Solution {
         public int totalFruit(int[] tree) {
             // validity
