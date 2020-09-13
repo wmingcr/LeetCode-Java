@@ -71,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/0130 Surronded Regions/0130 Surronded Regions.iml" filepath="$PROJECT_DIR$/0130 Surronded Regions/0130 Surronded Regions.iml" />
       <module fileurl="file://$PROJECT_DIR$/0134 Gas Station/0134 Gas Station.iml" filepath="$PROJECT_DIR$/0134 Gas Station/0134 Gas Station.iml" />
       <module fileurl="file://$PROJECT_DIR$/0138 Copy List with Random Pointer/0138 Copy List with Random Pointer.iml" filepath="$PROJECT_DIR$/0138 Copy List with Random Pointer/0138 Copy List with Random Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0140 Word Break/0140 Word Break.iml" filepath="$PROJECT_DIR$/0140 Word Break/0140 Word Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/0141 Linked List Cycle/0141 Linked List Cycle.iml" filepath="$PROJECT_DIR$/0141 Linked List Cycle/0141 Linked List Cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/0142 Linked List Cycle II/0142 Linked List Cycle II.iml" filepath="$PROJECT_DIR$/0142 Linked List Cycle II/0142 Linked List Cycle II.iml" />
       <module fileurl="file://$PROJECT_DIR$/0143 Reorder List/0143 Reorder List.iml" filepath="$PROJECT_DIR$/0143 Reorder List/0143 Reorder List.iml" />
@@ -100,6 +101,7 @@
       <module fileurl="file://$PROJECT_DIR$/0257 Binary Tree Paths/0257 Binary Tree Paths.iml" filepath="$PROJECT_DIR$/0257 Binary Tree Paths/0257 Binary Tree Paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/0274 H-Index/0274 H-Index.iml" filepath="$PROJECT_DIR$/0274 H-Index/0274 H-Index.iml" />
       <module fileurl="file://$PROJECT_DIR$/0275 H-Index II/0275 H-Index II.iml" filepath="$PROJECT_DIR$/0275 H-Index II/0275 H-Index II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0282 Expression Add Operators/0282 Expression Add Operators.iml" filepath="$PROJECT_DIR$/0282 Expression Add Operators/0282 Expression Add Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/0287 Find the Duplicated Number/0287 Find the Duplicated Number.iml" filepath="$PROJECT_DIR$/0287 Find the Duplicated Number/0287 Find the Duplicated Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/0289 Game of Live/0289 Game of Live.iml" filepath="$PROJECT_DIR$/0289 Game of Live/0289 Game of Live.iml" />
       <module fileurl="file://$PROJECT_DIR$/0297 Serialize and Deserialize Binary Tree/0297 Serialize and Deserialize Binary Tree.iml" filepath="$PROJECT_DIR$/0297 Serialize and Deserialize Binary Tree/0297 Serialize and Deserialize Binary Tree.iml" />
@@ -109,6 +111,7 @@
       <module fileurl="file://$PROJECT_DIR$/0328 Odd Even Linked List/0328 Odd Even Linked List.iml" filepath="$PROJECT_DIR$/0328 Odd Even Linked List/0328 Odd Even Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/0337 House Robber/0337 House Robber.iml" filepath="$PROJECT_DIR$/0337 House Robber/0337 House Robber.iml" />
       <module fileurl="file://$PROJECT_DIR$/0367 Valid Perfect Square/0367 Valid Perfect Square.iml" filepath="$PROJECT_DIR$/0367 Valid Perfect Square/0367 Valid Perfect Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0377 Combination Sum4/0377 Combination Sum4.iml" filepath="$PROJECT_DIR$/0377 Combination Sum4/0377 Combination Sum4.iml" />
       <module fileurl="file://$PROJECT_DIR$/0424 Longest Repeating Character Replacement/0424 Longest Repeating Character Replacement.iml" filepath="$PROJECT_DIR$/0424 Longest Repeating Character Replacement/0424 Longest Repeating Character Replacement.iml" />
       <module fileurl="file://$PROJECT_DIR$/0430 Flatten a Multilevel Doubly Linked List/0430 Flatten a Multilevel Doubly Linked List.iml" filepath="$PROJECT_DIR$/0430 Flatten a Multilevel Doubly Linked List/0430 Flatten a Multilevel Doubly Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/0437 Path Sum III/0437 Path Sum III.iml" filepath="$PROJECT_DIR$/0437 Path Sum III/0437 Path Sum III.iml" />
@@ -123,6 +126,7 @@
       <module fileurl="file://$PROJECT_DIR$/0713 Subarray Product Less Than K/0713 Subarray Product Less Than K.iml" filepath="$PROJECT_DIR$/0713 Subarray Product Less Than K/0713 Subarray Product Less Than K.iml" />
       <module fileurl="file://$PROJECT_DIR$/0784 Letter Case Permutation/0784 Letter Case Permutation.iml" filepath="$PROJECT_DIR$/0784 Letter Case Permutation/0784 Letter Case Permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/0817. Linked List Components/0817. Linked List Components.iml" filepath="$PROJECT_DIR$/0817. Linked List Components/0817. Linked List Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/0828 Count Unique Characters of All Substrings of a Given String.iml" filepath="$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/0828 Count Unique Characters of All Substrings of a Given String.iml" />
       <module fileurl="file://$PROJECT_DIR$/0844 Backspace String Compare/0844 Backspace String Compare.iml" filepath="$PROJECT_DIR$/0844 Backspace String Compare/0844 Backspace String Compare.iml" />
       <module fileurl="file://$PROJECT_DIR$/0875 Koko Eating Bananas/0875 Koko Eating Bananas.iml" filepath="$PROJECT_DIR$/0875 Koko Eating Bananas/0875 Koko Eating Bananas.iml" />
       <module fileurl="file://$PROJECT_DIR$/0876 Middle of the Linked List/0876 Middle of the Linked List.iml" filepath="$PROJECT_DIR$/0876 Middle of the Linked List/0876 Middle of the Linked List.iml" />
