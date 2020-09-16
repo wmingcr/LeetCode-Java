@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da4923b-9dfb-41d6-ab35-8b920ea23423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0000 Tests/src/Debug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0000 Tests/src/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0000 Tests/src/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0060 Permutation Sequence/src/FactorialNumberSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0140 Word Break/0140 Word Break.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0140 Word Break/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0140 Word Break/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0282 Expression Add Operators/0282 Expression Add Operators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0282 Expression Add Operators/src/TheWrongSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0377 Combination Sum4/0377 Combination Sum4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0377 Combination Sum4/src/DPSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0377 Combination Sum4/src/DynamicProgrammingRecursionSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/0828 Count Unique Characters of All Substrings of a Given String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/src/Solution1_nSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0000 Tests/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0000 Tests/src/NewSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0000 Tests/src/Problem4T.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0000 Tests/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/0000 Tests/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimum Moves to Equal Array Elements/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimum Moves to Equal Array Elements/Solution_BruteForce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimum Moves to Equal Array Elements/Solution_Math.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimum Moves to Equal Array Elements/Solution_MathOptimization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimun Moves to Equal Array Elements/Solution_BruteForce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/453 Minimun Moves to Equal Array Elements/Solution_Interesting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0000 Tests/Problem4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/0000 Tests/Problem4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0000 Tests/Test$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/0000 Tests/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/0000 Tests/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/src/Solution1_nSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/0828 Count Unique Characters of All Substrings of a Given String/src/Solution1_nSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
