@@ -1,0 +1,9 @@
+题目本身不难，耐心，细心写就可以了。
+
+-----
+
+corner case：如果矩阵为空的时候，只需要把 newInterval 添加即可。
+
+分类讨论，1. 矩阵元素右侧小于新 interval
+        2. 矩阵元素左侧大于新 interval，此时可以添加该interval，同时要把该 interval 设置为空，null。
+        3. 其他情况：合并该元素和相关矩阵即可。

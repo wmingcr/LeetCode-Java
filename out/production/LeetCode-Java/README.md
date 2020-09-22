@@ -1,4 +1,7 @@
-## Question
+# Errors
 
-When we are going to find the right number which is just bigger than the left point(nums[i), can we use biary serach?
+if(arr.length <= 0){
+ 
+return -1; error1: no return values for this method
 
+}
