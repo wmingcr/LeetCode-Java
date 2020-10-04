@@ -1,8 +1,15 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class backtrack {
+
+    public static void main(String[] args) {
+        System.out.println ("asdf");
+    }
 
     class Solution {
 
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<> ();
         int n, k;
         public List<List<Integer>> subsets(int[] nums) {
 
